@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import { Navigation } from "./components/navigation";
 import { Header } from "./components/header";
-// import { Features } from "./components/features"; // GEREK YOK ARTIK
 import { Services } from "./components/services";
 import { Team } from "./components/Team";
 import { Contact } from "./components/contact";
@@ -15,6 +15,17 @@ export const scroll = new SmoothScroll('a[href*="#"]', {
   speedAsDuration: true,
 });
 
+const Home = ({ data }) => {
+  return (
+    <div>
+      <Header data={data.Header} features={data.Features} />
+      <Services data={data.Services} />
+      <Team data={data.Team} />
+      {/* Contact kaldırıldı buradan */}
+    </div>
+  );
+};
+
 const App = () => {
   const [landingPageData, setLandingPageData] = useState({});
 
@@ -23,18 +34,13 @@ const App = () => {
   }, []);
 
   return (
-    <div>
+    <Router>
       <Navigation />
-      {/* Header bileşenine "features" props'u ile veri geçiyoruz */}
-      <Header 
-        data={landingPageData.Header} 
-        features={landingPageData.Features} 
-      />
-      {/* <Features /> bileşeni çıkarıldı çünkü artık Header içinde */}
-      <Services data={landingPageData.Services} />
-      <Team data={landingPageData.Team} />
-      <Contact data={landingPageData.Contact} />
-    </div>
+      <Routes>
+        <Route path="/" element={<Home data={landingPageData} />} />
+        <Route path="/iletisim" element={<Contact data={landingPageData.Contact} />} />
+      </Routes>
+    </Router>
   );
 };
 

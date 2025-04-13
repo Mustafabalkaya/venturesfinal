@@ -1,87 +1,187 @@
 {
   "Header": [
     {
-      "title": "Nasıl Çalışıyoruz",
-      "paragraph": "Partnerlik\n• Pazarlama Departmanınızın bir üyesi olarak\n• Kapsamlı Projelerinizin bir üyesi olarak\n• Uzun vadeli projelerinizde ekip üyesi olarak",
-      "image": "img/team/1.jpg"
+      "tr": {
+        "title": "Nasıl Çalışıyoruz",
+        "paragraph": "Partnerlik\n• Pazarlama Departmanınızın bir üyesi olarak\n• Kapsamlı Projelerinizin bir üyesi olarak\n• Uzun vadeli projelerinizde ekip üyesi olarak",
+        "image": "img/team/1.jpg"
+      },
+      "en": {
+        "title": "How We Work",
+        "paragraph": "Partnership\n• As a member of your marketing team\n• As part of your large-scale projects\n• As a team member in long-term collaborations",
+        "image": "img/team/1.jpg"
+      }
     },
-  {
-    "title": "Danışmanlık",
-    "paragraph": "• Ürün ve kampanyalarınızı geliştiriyoruz.\n• Daha iyi KPI’lar oluşturmanıza yardımcı oluyoruz.\n• Ürünlerinizi global pazarda konumlandırıyoruz.",
-    "image": "img/team/2.jpg"
-  },
-  {
-    "title": "Proje Bazlı",
-    "paragraph": "• Hayalinizdeki ürünü en iyi şekilde teslim alın\n• Kapsamlı Projelerinizin bir üyesi olarak",
-    "image": "img/team/3.jpg"
-  }
-]
+    {
+      "tr": {
+        "title": "Danışmanlık",
+        "paragraph": "• Ürün ve kampanyalarınızı geliştiriyoruz.\n• Daha iyi KPI’lar oluşturmanıza yardımcı oluyoruz.\n• Ürünlerinizi global pazarda konumlandırıyoruz.",
+        "image": "img/team/2.jpg"
+      },
+      "en": {
+        "title": "Consulting",
+        "paragraph": "• We improve your products and campaigns.\n• We help you create better KPIs.\n• We position your products in the global market.",
+        "image": "img/team/2.jpg"
+      }
+    },
+    {
+      "tr": {
+        "title": "Proje Bazlı",
+        "paragraph": "• Hayalinizdeki ürünü en iyi şekilde teslim alın\n• Kapsamlı Projelerinizin bir üyesi olarak",
+        "image": "img/team/3.jpg"
+      },
+      "en": {
+        "title": "Project-Based",
+        "paragraph": "• Get your dream product delivered perfectly\n• As part of your large-scale projects",
+        "image": "img/team/3.jpg"
+      }
+    }
+  ]
+  
 ,
   "Services": [
     {
       "icon": "fa fa-laptop",
-      "name": "Kreatif Ajans Hizmetleri",
-      "text": "Marka İletişimi Tasarımı / Ambalaj Tasarımı<br/>Kurumsal Promosyon Ürün Tasarımı / Tasarım<br/>Konsept Geliştirme /<br/>Banner ve Sosyal medya Görsel Tasarımları<br/>Kurumsal Kimlik Tasarımları<br/>Motion Grafik Geliştirme /<br/>Yaratıcı Strateji ve Marka Konumlandırma"
+      "tr": {
+        "name": "Kreatif Ajans Hizmetleri",
+        "text": "Marka İletişimi Tasarımı / Ambalaj Tasarımı<br/>Kurumsal Promosyon Ürün Tasarımı / Tasarım<br/>Konsept Geliştirme /<br/>Banner ve Sosyal medya Görsel Tasarımları<br/>Kurumsal Kimlik Tasarımları<br/>Motion Grafik Geliştirme /<br/>Yaratıcı Strateji ve Marka Konumlandırma"
+      },
+      "en": {
+        "name": "Creative Agency Services",
+        "text": "Brand Communication Design / Packaging Design<br/>Corporate Promotional Product Design / Design<br/>Concept Development /<br/>Banner and Social Media Visual Designs<br/>Corporate Identity Designs<br/>Motion Graphic Development /<br/>Creative Strategy and Brand Positioning"
+      }
     },
     {
       "icon": "fa fa-bullhorn",
-      "name": "Dijital Pazarlama Danışmanlığı",
-      "text": "İşletmenizin dijital dönüşüm yolculuğunda, büyüme odaklı stratejiler ve bütçenize uygun çözümler sunuyoruz. Markanızın sesini dijital dünyada daha etkili bir şekilde duyurarak, hedef kitlenize ulaşmanızı sağlıyoruz. Dijital Pazarlama Stratejisi ve Yönetimi / İçerik Pazarlaması Sosyal Medya Yönetimi ve Pazarlaması / Sosyal Medya Strateji ve İçerik Geliştirme / SEO & SEM & PPC…"
+      "tr": {
+        "name": "Dijital Pazarlama Danışmanlığı",
+        "text": "İşletmenizin dijital dönüşüm yolculuğunda, büyüme odaklı stratejiler ve bütçenize uygun çözümler sunuyoruz. Markanızın sesini dijital dünyada daha etkili bir şekilde duyurarak, hedef kitlenize ulaşmanızı sağlıyoruz."
+      },
+      "en": {
+        "name": "Digital Marketing Consultancy",
+        "text": "We provide growth-oriented strategies and budget-friendly solutions for your business’s digital transformation journey. By amplifying your brand’s voice in the digital world, we help you reach your target audience effectively."
+      }
     },
     {
       "icon": "fa fa-plane",
-      "name": "Uçtan Uca E-ticaret Yönetimi",
-      "text": "Uçtan uca E-ticaret Yönetimi ile E-ticaret sitesi tasarımı, Ürün Yönetimi, Sipariş Yönetimi ve Lojistik Yönetimi, Ödeme Yönetimi, Müşteri Hizmetleri, Pazarlama ve Satış, Veri Analizi, Entegrasyon Çözümleri ve Kreatif Tasarımlar ile iş yükünüzü hafifletiyoruz ve markanızın dijital dünyada güçlendiriyoruz."
+      "tr": {
+        "name": "Uçtan Uca E-ticaret Yönetimi",
+        "text": "E-ticaret sitesi tasarımı, ürün ve sipariş yönetimi, ödeme sistemleri, müşteri hizmetleri ve daha fazlasıyla markanızı dijital dünyada güçlendiriyoruz."
+      },
+      "en": {
+        "name": "End-to-End E-commerce Management",
+        "text": "We empower your brand in the digital world with e-commerce website design, product and order management, payment systems, customer service, and more."
+      }
     },
     {
       "icon": "fa fa-home",
-      "name": "Yurt içi E-ticaret Danışmanlığı",
-      "text": "E-ticaret Yolculuğunuzda; Strateji Geliştirme, E-ticaret Platform Seçimi ve Kurulumu, Web sitesi tasarımı ve geliştirme, Ürün Listeleme ve kategorizasyon, Sipariş Yönetimi ve Lojistik, Pazaryeri Entegrasyonları ve Yönetimi, Analitik ve Raporlama E-ticaret Yazılımları ve ERP Çözümleri, Pazarlama ve iletişim Stratejileri ile markanızın online alandaki büyümesini rekabet avantajını destekliyoruz."
+      "tr": {
+        "name": "Yurt içi E-ticaret Danışmanlığı",
+        "text": "Strateji Geliştirme, Platform Seçimi, Kategorizasyon, Lojistik ve Pazaryeri Entegrasyonu gibi hizmetlerle işletmenizi destekliyoruz."
+      },
+      "en": {
+        "name": "Domestic E-commerce Consultancy",
+        "text": "We support your business with Strategy Development, Platform Selection, Categorization, Logistics, and Marketplace Integration services."
+      }
     },
     {
       "icon": "fa fa-globe",
-      "name": "Yurt dışı E-ihracat Danışmanlığı & Hizmeti",
-      "text": "Yurtdışı E-ihracat yolculuğunuzda; Uluslararası Platform Entegrasyonları, Altyapı ve Teknoloji Danışmanlığı, Pazar Analizi ve Strateji Geliştirme, Lojistik ve Gümrük Danışmanlığı ile Uluslararası ticaretinize değer katıyoruz. - Pazar Araştırması ve Analizi, E-ticaret Platformu Seçimi ve Kurulumu, Ürün Listeleme ve Optimizasyonu, Lojistik ve Gümrük İşlemleri, Ödeme Sistemleri Entegrasyonu, Pazarlama ve Tanıtım, Müşteri Hizmetleri,"
+      "tr": {
+        "name": "Yurt dışı E-ihracat Danışmanlığı & Hizmeti",
+        "text": "Uluslararası Platform Entegrasyonları, Pazar Analizi, Lojistik ve Gümrük Danışmanlığı ile global ticarette büyümenize yardımcı oluyoruz."
+      },
+      "en": {
+        "name": "International E-export Consultancy & Services",
+        "text": "We help you grow in global trade through International Platform Integrations, Market Analysis, Logistics, and Customs Consultancy."
+      }
     },
     {
       "icon": "fa fa-cart-arrow-down",
-      "name": "E-ticaret Sitesi Tasarım, Yazılım Geliştirme",
-      "text": "Sektördeki deneyimimizle, işletmenizin ihtiyaçlarına özel tasarlanmış, yüksek performanslı e-ticaret siteleri geliştiriyoruz. Yapay zeka (AI) destekli kişiselleştirme, mobil uyumlu tasarım ve gelişmiş SEO teknikleriyle, satışlarınızı artırırken müşteri memnuniyetini en üst düzeye çıkarıyoruz."
+      "tr": {
+        "name": "E-ticaret Sitesi Tasarım, Yazılım Geliştirme",
+        "text": "Özel tasarlanmış, mobil uyumlu, SEO odaklı yüksek performanslı e-ticaret siteleri geliştiriyoruz."
+      },
+      "en": {
+        "name": "E-commerce Website Design & Software Development",
+        "text": "We develop high-performance, mobile-compatible, SEO-driven e-commerce websites tailored to your needs."
+      }
     },
     {
       "icon": "fa fa-tablet",
-      "name": "IOS & Android Mobil Uygulama Geliştirme",
-      "text": "Kullanıcı Talep ve deneyimlerine göre iOS ve Android platformları için özel native ve hybrid teknolojiler ile mobil uygulamalar geliştiriyoruz."
+      "tr": {
+        "name": "IOS & Android Mobil Uygulama Geliştirme",
+        "text": "iOS ve Android için özel native ve hybrid teknolojiler ile mobil uygulamalar geliştiriyoruz."
+      },
+      "en": {
+        "name": "IOS & Android Mobile App Development",
+        "text": "We develop mobile apps using custom native and hybrid technologies for iOS and Android platforms."
+      }
     },
     {
       "icon": "fa fa-file-code-o",
-      "name": "UI / UX Tasarım Geliştirme",
-      "text": "Markanıza özel UI/UX çözümleriyle dijital ürünlerinizi daha etkili hale getiriyoruz. "
+      "tr": {
+        "name": "UI / UX Tasarım Geliştirme",
+        "text": "Markanıza özel UI/UX çözümleriyle dijital ürünlerinizi daha etkili hale getiriyoruz."
+      },
+      "en": {
+        "name": "UI / UX Design Development",
+        "text": "We enhance your digital products with custom UI/UX solutions tailored to your brand."
+      }
     },
     {
       "icon": "fa fa-gratipay",
-      "name": "UGC & Influncer Marketing",
-      "text": "Markanız için kullanıcı tarafından oluşturulan içerikler ve influencer iş birlikleriyle güvenilir ve etkili kampanyalar oluşturuyoruz. "
+      "tr": {
+        "name": "UGC & Influencer Marketing",
+        "text": "Kullanıcı tarafından oluşturulan içerikler ve influencer iş birlikleriyle etkili kampanyalar oluşturuyoruz."
+      },
+      "en": {
+        "name": "UGC & Influencer Marketing",
+        "text": "We create impactful campaigns with user-generated content and influencer collaborations."
+      }
     },
     {
       "icon": "fa fa-line-chart",
-      "name": "Pazarlama Odaklı Web Tasarım ve Yazılım Geliştirme",
-      "text": "Markanızın ihtiyacına göre; benzersiz, amacına uygun estetik, profesyonel ve markanın pazarlama hedeflerine ulaşmasına, müşteri kazanımını artırmasına ve uzun vadeli başarı sağlamasına yardımcı olacak web siteleri hazırlıyoruz. "
+      "tr": {
+        "name": "Pazarlama Odaklı Web Tasarım ve Yazılım Geliştirme",
+        "text": "Estetik, profesyonel ve pazarlama hedeflerine uygun web siteleri ile markanızı dijitalde büyütüyoruz."
+      },
+      "en": {
+        "name": "Marketing-Focused Web Design & Development",
+        "text": "We grow your brand digitally with aesthetic, professional websites aligned with your marketing goals."
+      }
     },
     {
       "icon": "fa fa-video-camera",
-      "name": "Prodüksiyon",
-      "text": "Markanızın stratejinizi çerçevesinde; TVC, Ürün Kurumsal / Fabrika / Otel Tanıtım Filmi, Viral Reklam Filmi, Masaüstü Reklam Filmi, Ürün / Kurumsal / Fabrika Otel Fotoğraf Çekimi, 2D/3D Animasyon Filmi, özgün ve yaratıcı fikirler harmanlayıp gerçekleştiriyoruz "
+      "tr": {
+        "name": "Prodüksiyon",
+        "text": "TV, ürün, kurumsal tanıtım filmleri ve fotoğraf çekimleriyle markanızı yansıtıyoruz."
+      },
+      "en": {
+        "name": "Production",
+        "text": "We reflect your brand with TV, product, corporate promotional videos and photography services."
+      }
     },
     {
       "icon": "fa fa-shield",
-      "name": "Prodüksiyon",
-      "text": "Markanızı Dünyanın Her yerinde Koruyalım."
+      "tr": {
+        "name": "Marka Koruma",
+        "text": "Markanızı dünyanın her yerinde koruyalım."
+      },
+      "en": {
+        "name": "Brand Protection",
+        "text": "Let's protect your brand worldwide."
+      }
     },
     {
       "icon": "fa fa-calendar",
-      "name": "Medya Planlama",
-      "text": "Yurtdışı/Yurtdışı Açıkhava Medya Alanları (Dooh – Ooh)"
+      "tr": {
+        "name": "Medya Planlama",
+        "text": "Yurt içi/yurt dışı açıkhava medya alanları (Dooh – Ooh)"
+      },
+      "en": {
+        "name": "Media Planning",
+        "text": "Domestic and international outdoor media spaces (Dooh – Ooh)"
+      }
     }
   ],
   
